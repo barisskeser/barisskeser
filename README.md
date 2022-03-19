@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barış</h1>
 
-<h3 align="center">A passionate android developer.</h3>
+<h3 align="center">A passionate android developer</h3>
 
 <p align="center"><img src="images/hello_there.gif"></p>
 
