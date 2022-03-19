@@ -9,10 +9,10 @@
 
 <p align="center">
 	<a href="mailto:ma.shamshiri@gmail.com" target="_blank">
-		<img align="center" src="images/contacts/email.svg" alt="email" height="40" width="40" />
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" />
 	</a>
 	<a href="https://www.linkedin.com/in/ma-shamshiri/" target="_blank"">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="linkedin" height="40" width="40" />
+		<img align="center" src="" alt="linkedin" height="40" width="40" />
 	</a>
 	<a href="https://twitter.com/ma_shamshiri" target="_blank"> 
 		<img align="center" src="images/contacts/twitter.svg" alt="twitter" height="40" width="40" />
