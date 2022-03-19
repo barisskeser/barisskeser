@@ -8,15 +8,15 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-	<a href="mailto:ma.shamshiri@gmail.com" target="_blank">
+	<a href="mailto:barisskeser@hotmail.com" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" />
 	</a>
-	<a href="https://www.linkedin.com/in/ma-shamshiri/" target="_blank"">
-		<img align="center" src="" alt="linkedin" height="40" width="40" />
+	<a href="https://www.linkedin.com/in/barisskeser/" target="_blank"">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
-	<a href="https://twitter.com/ma_shamshiri" target="_blank"> 
-		<img align="center" src="images/contacts/twitter.svg" alt="twitter" height="40" width="40" />
-    	</a>
+	<a href="mailto:baris.developapp@gmail.com" target="_blank">
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="40" width="40" />
+	</a>
 </p>
 
 
