@@ -9,6 +9,7 @@
 <p align="left">
 <img align="center" src="/images/android-studio.svg" alt="email" height="40" width="40" />
 <img align="center" src="/images/intellij-idea.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/firebase.svg" alt="email" height="40" width="40" />
 <img align="center" src="/images/kotlin.svg" alt="email" height="40" width="40" />
 <img align="center" src="/images/java.svg" alt="email" height="40" width="40" />
 <img align="center" src="/images/c-programming.svg" alt="email" height="40" width="40" />
