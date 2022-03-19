@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Languages and tools:</h3>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/android-studio.svg" alt="email" height="40" width="40" />
 
 <h3 align="left">Connect with me:</h3>
 
