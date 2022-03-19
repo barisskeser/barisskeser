@@ -7,6 +7,11 @@
 
 <h3 align="left">Languages and tools:</h3>
 <img align="center" src="/images/android-studio.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/intellij-idea.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/kotlin.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/java.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/c-programming.svg" alt="email" height="40" width="40" />
+<img align="center" src="/images/git.svg" alt="email" height="40" width="40" />
 
 <h3 align="left">Connect with me:</h3>
 
