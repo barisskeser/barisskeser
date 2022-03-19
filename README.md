@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
 	<a href="mailto:barisskeser@hotmail.com" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="email" height="40" width="40" />
 	</a>
