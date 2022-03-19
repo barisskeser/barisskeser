@@ -23,7 +23,7 @@
 		<img align="center" src="/images/java.svg" alt="Java" height="40" width="40" />
 	</a>
 	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
-		<img align="center" src="/images/java.svg" alt="Python" height="40" width="40" />
+		<img align="center" src="/images/python.svg" alt="Python" height="40" width="40" />
 	</a>
 	<a href = "https://jupyter.org/" target="_blank">
 		<img align="center" src="/images/jupyter-notebook.svg" alt="Jupyter Notebook" height="40" width="40" />
