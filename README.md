@@ -29,6 +29,11 @@
 		<img align="center" src="/images/sourcetree.png" alt="Sourcetree" height="40" width="40" />
 	</a>
 </p>
+
+<p>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisskeser&show_icons=true&locale=en&layout=compact" alt="barisskeser" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
@@ -41,11 +46,6 @@
 	<a href="mailto:baris.developapp@gmail.com" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="40" width="40" />
 	</a>
-</p>
-
-
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisskeser&show_icons=true&locale=en&layout=compact" alt="barisskeser" />
 </p>
 
 
