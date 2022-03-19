@@ -7,13 +7,27 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
-<img align="center" src="/images/android-studio.svg" alt="email" height="40" width="40" />
-<img align="center" src="/images/intellij-idea.svg" alt="email" height="40" width="40" />
-<img align="center" src="/images/firebase.svg" alt="email" height="40" width="40" />
-<img align="center" src="/images/kotlin.svg" alt="email" height="40" width="40" />
-<img align="center" src="/images/java.svg" alt="email" height="40" width="40" />
-<img align="center" src="/images/c-programming.svg" alt="email" height="40" width="40" />
-<img align="center" src="/images/git.svg" alt="email" height="40" width="40" />
+	<a href = "https://developer.android.com/studio" target="_blank">
+		<img align="center" src="/images/android-studio.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href = "https://www.jetbrains.com/idea/" target="_blank">
+		<img align="center" src="/images/intellij-idea.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href = "https://firebase.google.com/" target="_blank">
+		<img align="center" src="/images/firebase.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href = "https://kotlinlang.org/" target="_blank">
+		<img align="center" src="/images/kotlin.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href = "https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html" target="_blank">
+		<img align="center" src="/images/java.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href = "https://git-scm.com/" target="_blank">
+		<img align="center" src="/images/git.svg" alt="email" height="40" width="40" />
+	</a>
+	<a href = "https://www.sourcetreeapp.com/" target="_blank">
+		<img align="center" src="/images/sourcetree.png" alt="email" height="40" width="40" />
+	</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 
