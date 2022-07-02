@@ -69,7 +69,4 @@ Here are some ideas to get you started:
 	<a href="mailto:baris.developapp@gmail.com" target="_blank">
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="40" width="40" />
 	</a>
-	<a href="https://t.me/bariskeser">
-		<img align="center" src="/images/telegram.svg" alt="linkedin" height="40" width="40" />
-	</a>
 </p>
