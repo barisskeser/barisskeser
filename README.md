@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="images/hello_there.gif"></p>
 
-- 🌱 I’m currently learning Kotlin.
-- 🤔 I’m looking for help with Android Clean App Development.
-
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
 	<a href = "https://developer.android.com/studio" target="_blank">
